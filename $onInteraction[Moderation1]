@@ -1,0 +1,6 @@
+$nomention
+$ephemeral
+$description[These are my moderation commands:
+`kick, ban, unban, warn, unwarn, warns`]
+$color[$random[00000;99999]]
+$removeButtons
