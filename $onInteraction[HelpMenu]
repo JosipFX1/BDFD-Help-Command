@@ -1,0 +1,23 @@
+$nomention
+$if[$message==Moderation1]
+$ephemeral
+$description[This is awesome select menu]
+$color[$random[00000;99999]]
+$endif
+$if[$message==Setup1]
+$ephemeral
+$description[This is awesome select menu]
+$color[$random[00000;99999]]
+$endif
+$if[$message==Test8]
+$ephemeral
+$description[This is awesome select menu]
+$color[$random[00000;99999]]
+$endif
+$if[$message==test11]
+$ephemeral
+$description[This is awesome select menu]
+$color[$random[00000;99999]]
+$endif
+$removeComponent[HelpMenu1]
+$removeButtons
