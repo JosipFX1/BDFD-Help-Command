@@ -1,0 +1,7 @@
+$nomention
+$description[Small stats:
+Ping: $ping `ms`
+Uptime: $uptime
+In guilds: $serverCount]
+$color[$random[00000;99999]]
+$addTimestamp
