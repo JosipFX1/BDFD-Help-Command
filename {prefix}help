@@ -1,0 +1,16 @@
+$nomention
+$description[Small stats:
+Ping: $ping `ms`
+Uptime: $uptime
+In guilds: $serverCount]
+$color[$random[00000;99999]]
+$addTimestamp
+$addButton[no;Home1;Home;success;no]
+$addButton[no;Moderation1;Moderation;success;no]
+$newSelectMenu[HelpMenu1;1;4;Select one of options!]
+$addSelectMenuOption[HelpMenu1;Moderation;Moderation1;All moderation commands!]
+$addSelectMenuOption[HelpMenu1;Setup;Setup1;test;;<a<a:staff1:977648484473782362>977648484473782362>;]
+$addSelectMenuOption[HelpMenu1;Test5;Test8;test]
+$addSelectMenuOption[HelpMenu1;test10;test11;test]
+
+**EVERYTHING IS BDSCRIPT!**
